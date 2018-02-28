@@ -1,9 +1,0 @@
-H:\BattleShips\Battleships\bin\Debug\netcoreapp1.1\Battleships.deps.json
-H:\BattleShips\Battleships\bin\Debug\netcoreapp1.1\Battleships.runtimeconfig.json
-H:\BattleShips\Battleships\bin\Debug\netcoreapp1.1\Battleships.runtimeconfig.dev.json
-H:\BattleShips\Battleships\bin\Debug\netcoreapp1.1\Battleships.dll
-H:\BattleShips\Battleships\bin\Debug\netcoreapp1.1\Battleships.pdb
-H:\BattleShips\Battleships\obj\Debug\netcoreapp1.1\Battleships.csprojResolveAssemblyReference.cache
-H:\BattleShips\Battleships\obj\Debug\netcoreapp1.1\Battleships.AssemblyInfo.cs
-H:\BattleShips\Battleships\obj\Debug\netcoreapp1.1\Battleships.dll
-H:\BattleShips\Battleships\obj\Debug\netcoreapp1.1\Battleships.pdb
